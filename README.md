@@ -1,6 +1,6 @@
 <img align="right" width="8%" src="https://i.ibb.co/8z76419/nikodance.gif">
 
-**Hello!** I'm Keergz.
+<span style="font-size: larger;">**Hello!** I'm Keergz.
 - I'm mostly a web developer now, but I sometimes work on software too.
 - Most of my projects are private at the moment and I don't use GitHub too often.
 ---
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,html,json,windows&includeNames=true&theme=dark">
+<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,js,html,json,windows&includeNames=true&theme=dark">
 </p>
 
 <p align="center">

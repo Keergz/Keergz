@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,html,json,windows&includeNames=true&theme=dark">
+<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,js,html,json,windows&includeNames=true&theme=dark">
 </p>
 
 <p align="center">

@@ -1,8 +1,8 @@
 <img align="right" width="8%" src="https://i.ibb.co/8z76419/nikodance.gif">
 
-**Hello!** I'm Keergz.
-- I'm mostly a web developer now, but I sometimes work on software too.
-- Most of my projects are private at the moment and I don't use GitHub too often.
+**Hi,** I'm Keergz!!
+- I'm a web and software developer and a cybersecurity enthusiast! 
+- Most of my projects are private, and I don't really consider myself for hire. I might contribute to projects occasionally if I have time however!!
 ---
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,js,html,css,json,cpp,postgresql,windows&includeNames=true&theme=dark">
+<img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=lua,python,node,js,ts,html,css,md,json,cpp,postgresql,windows&includeNames=true&theme=dark">
 </p>
 
 <p align="center">
